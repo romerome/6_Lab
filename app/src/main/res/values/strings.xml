@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sandwich Club</string>
+    <string name="transition">Transition</string>
+    <string name="detail_error_message">Информация не найдена..</string>
+    <string name="data_missing">Информация потеряна..</string>
+
+    <string-array name="sandwich_names">
+        <item>Шаурма</item>
+        <item>Чизбургер</item>
+        <item>Бутерброд</item>
+        <item>Грибной бургер</item>
+        <item>Джек Дэнилс бургер</item>
+        <item>Тако</item>
+    </string-array>
+
+    <string-array name="sandwich_details">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

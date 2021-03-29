@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- activity_detail -->
+    <dimen name="ad_app_bar_layout_height">350dp</dimen>
+    <dimen name="ad_collapsing_toolbar_layout_title_margin_bottom">32dp</dimen>
+    <dimen name="ad_collapsing_toolbar_layout_title_margin_start">24dp</dimen>
+    <dimen name="ad_card_view_margin">16dp</dimen>
+    <dimen name="ad_card_view_elevation">5dp</dimen>
+    <dimen name="ad_linear_layout_margin">16dp</dimen>
+    <dimen name="ad_text_view_margin_bottom">10dp</dimen>
+
+
+    <!-- activity_detail_land -->
+    <dimen name="adl_app_bar_layout_height">350dp</dimen>
+    <dimen name="adl_collapsing_toolbar_layout_title_margin_bottom">112dp</dimen>
+    <dimen name="adl_collapsing_toolbar_layout_title_margin_start">72dp</dimen>
+    <dimen name="adl_nested_scroll_view_overlap_top">110dp</dimen>
+    <dimen name="adl_card_view_margin_bottom">16dp</dimen>
+    <dimen name="adl_card_view_margin_end">64dp</dimen>
+    <dimen name="adl_card_view_margin_start">64dp</dimen>
+    <dimen name="adl_card_view_margin_top">16dp</dimen>
+    <dimen name="adl_card_view_elevation">5dp</dimen>
+    <dimen name="adl_linear_layout_margin">16dp</dimen>
+    <dimen name="adl_text_view_margin_bottom">10dp</dimen>
+
+
+    <!-- activity_main -->
+    <dimen name="am_list_view_margin">16dp</dimen>
+
+    <!-- activity_main_land -->
+    <dimen name="aml_list_view_margin_bottom">16dp</dimen>
+    <dimen name="aml_list_view_margin_end">64dp</dimen>
+    <dimen name="aml_list_view_margin_start">64dp</dimen>
+    <dimen name="aml_list_view_margin_top">16dp</dimen>
+
+</resources>
